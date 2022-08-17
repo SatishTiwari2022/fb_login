@@ -99,10 +99,19 @@ If you targets Android 11 or higher, you should add
 
 
 This Sample for IOS
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/107614710/185034968-e536beec-de17-4f11-a6e2-47b819d7a3ad.gif)
+
+
+
+![IOS](https://user-images.githubusercontent.com/107614710/185034968-e536beec-de17-4f11-a6e2-47b819d7a3ad.gif)
+
+
+
 
 This Is For Android
 
-![Screen Recording 2022-07-20 at 12 (1)](https://user-images.githubusercontent.com/107614710/185035208-d1b01081-ce42-4a29-ab55-daf8e8bce1be.gif)
+
+
+
+![Android](https://user-images.githubusercontent.com/107614710/185035208-d1b01081-ce42-4a29-ab55-daf8e8bce1be.gif)
 
 
