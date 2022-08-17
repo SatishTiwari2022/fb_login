@@ -96,6 +96,8 @@ If you targets Android 11 or higher, you should add
 <queries>
   <package android:name="com.facebook.katana" />
 </queries>
-![0_7RAzC8b7ml46Rq_N](https://user-images.githubusercontent.com/107614710/185034044-b1c7d741-88fb-4698-b65e-bb30544b874d.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/107614710/185034968-e536beec-de17-4f11-a6e2-47b819d7a3ad.gif)
+
 
 
